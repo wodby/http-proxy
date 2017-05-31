@@ -4,4 +4,4 @@
 
 # Supported tags and respective `Dockerfile` links
 
--       [`latest` (*Dockerfile*)](https://github.com/wodby/http-proxy/tree/master/Dockerfile)
+- [`latest` (*Dockerfile*)](https://github.com/wodby/http-proxy/tree/master/Dockerfile)
